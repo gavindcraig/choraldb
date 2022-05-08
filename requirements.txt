@@ -1,0 +1,11 @@
+#
+# REQUIREMENTS FILE FOR CHORALDB
+#
+
+
+flask
+flask_sqlalchemy
+pymysql
+roman
+configparser
+bs4
